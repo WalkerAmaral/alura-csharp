@@ -1,0 +1,7 @@
+C:\Users\lucas\Desktop\Alura\CSharp\Aprendendo CSharp\9_1-Aliquotas\bin\Debug\9_1-Aliquotas.exe.config
+C:\Users\lucas\Desktop\Alura\CSharp\Aprendendo CSharp\9_1-Aliquotas\bin\Debug\9_1-Aliquotas.exe
+C:\Users\lucas\Desktop\Alura\CSharp\Aprendendo CSharp\9_1-Aliquotas\bin\Debug\9_1-Aliquotas.pdb
+C:\Users\lucas\Desktop\Alura\CSharp\Aprendendo CSharp\9_1-Aliquotas\obj\Debug\9.1-Aliquotas.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\Alura\CSharp\Aprendendo CSharp\9_1-Aliquotas\obj\Debug\9.1-Aliquotas.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Alura\CSharp\Aprendendo CSharp\9_1-Aliquotas\obj\Debug\9_1-Aliquotas.exe
+C:\Users\lucas\Desktop\Alura\CSharp\Aprendendo CSharp\9_1-Aliquotas\obj\Debug\9_1-Aliquotas.pdb

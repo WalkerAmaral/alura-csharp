@@ -1,0 +1,6 @@
+C:\Users\lucas\Desktop\Alura\CSharp\Aprendendo CSharp\P13.1-TabuadaDoFor\bin\Debug\P13.1-TabuadaDoFor.exe.config
+C:\Users\lucas\Desktop\Alura\CSharp\Aprendendo CSharp\P13.1-TabuadaDoFor\bin\Debug\P13.1-TabuadaDoFor.exe
+C:\Users\lucas\Desktop\Alura\CSharp\Aprendendo CSharp\P13.1-TabuadaDoFor\bin\Debug\P13.1-TabuadaDoFor.pdb
+C:\Users\lucas\Desktop\Alura\CSharp\Aprendendo CSharp\P13.1-TabuadaDoFor\obj\Debug\P13.1-DesafioSobre3.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Alura\CSharp\Aprendendo CSharp\P13.1-TabuadaDoFor\obj\Debug\P13.1-TabuadaDoFor.exe
+C:\Users\lucas\Desktop\Alura\CSharp\Aprendendo CSharp\P13.1-TabuadaDoFor\obj\Debug\P13.1-TabuadaDoFor.pdb

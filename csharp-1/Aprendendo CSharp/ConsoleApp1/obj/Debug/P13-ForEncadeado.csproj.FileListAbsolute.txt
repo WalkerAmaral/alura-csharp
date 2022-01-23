@@ -1,0 +1,7 @@
+C:\Users\lucas\Desktop\Alura\CSharp\Aprendendo CSharp\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\lucas\Desktop\Alura\CSharp\Aprendendo CSharp\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\lucas\Desktop\Alura\CSharp\Aprendendo CSharp\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\lucas\Desktop\Alura\CSharp\Aprendendo CSharp\ConsoleApp1\obj\Debug\P13-ForEncadeado.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\Alura\CSharp\Aprendendo CSharp\ConsoleApp1\obj\Debug\P13-ForEncadeado.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Alura\CSharp\Aprendendo CSharp\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\lucas\Desktop\Alura\CSharp\Aprendendo CSharp\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

@@ -1,0 +1,7 @@
+C:\Users\lucas\Desktop\Alura\CSharp\Aprendendo CSharp\P12-CalculandoInvestimentoLongoPrazo\obj\Debug\P12-CalculandoInvestimentoLongoPrazo.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\Alura\CSharp\Aprendendo CSharp\P12-CalculandoInvestimentoLongoPrazo\obj\Debug\P12-CalculandoInvestimentoLongoPrazo.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Alura\CSharp\Aprendendo CSharp\P12-CalculandoInvestimentoLongoPrazo\bin\Debug\P12-CalculandoInvestimentoLongoPrazo.exe.config
+C:\Users\lucas\Desktop\Alura\CSharp\Aprendendo CSharp\P12-CalculandoInvestimentoLongoPrazo\bin\Debug\P12-CalculandoInvestimentoLongoPrazo.exe
+C:\Users\lucas\Desktop\Alura\CSharp\Aprendendo CSharp\P12-CalculandoInvestimentoLongoPrazo\bin\Debug\P12-CalculandoInvestimentoLongoPrazo.pdb
+C:\Users\lucas\Desktop\Alura\CSharp\Aprendendo CSharp\P12-CalculandoInvestimentoLongoPrazo\obj\Debug\P12-CalculandoInvestimentoLongoPrazo.exe
+C:\Users\lucas\Desktop\Alura\CSharp\Aprendendo CSharp\P12-CalculandoInvestimentoLongoPrazo\obj\Debug\P12-CalculandoInvestimentoLongoPrazo.pdb

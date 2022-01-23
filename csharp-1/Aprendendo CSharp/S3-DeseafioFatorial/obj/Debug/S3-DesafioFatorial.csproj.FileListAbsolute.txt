@@ -1,0 +1,7 @@
+C:\Users\lucas\Desktop\Alura\CSharp\Aprendendo CSharp\S3-DeseafioFatorial\bin\Debug\S3-DeseafioFatorial.exe.config
+C:\Users\lucas\Desktop\Alura\CSharp\Aprendendo CSharp\S3-DeseafioFatorial\bin\Debug\S3-DeseafioFatorial.exe
+C:\Users\lucas\Desktop\Alura\CSharp\Aprendendo CSharp\S3-DeseafioFatorial\bin\Debug\S3-DeseafioFatorial.pdb
+C:\Users\lucas\Desktop\Alura\CSharp\Aprendendo CSharp\S3-DeseafioFatorial\obj\Debug\S3-DesafioFatorial.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\Alura\CSharp\Aprendendo CSharp\S3-DeseafioFatorial\obj\Debug\S3-DesafioFatorial.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Alura\CSharp\Aprendendo CSharp\S3-DeseafioFatorial\obj\Debug\S3-DeseafioFatorial.exe
+C:\Users\lucas\Desktop\Alura\CSharp\Aprendendo CSharp\S3-DeseafioFatorial\obj\Debug\S3-DeseafioFatorial.pdb
